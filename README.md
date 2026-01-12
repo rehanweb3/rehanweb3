@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Muhammad Rehan
 
-<!--
-**rehanweb3/rehanweb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Muhammad Rehan** is an experienced professional with practical skills in:
 
-Here are some ideas to get you started:
+- 🌐 Web3 & Crypto  
+- ⛓️ Blockchain Technology  
+- ⚙️ Ethers.js & Web3.js  
+- 🎨 HTML | CSS  
+- 🧠 JavaScript  
+- 💻 C / C++   
+- 📘 Currently learning **React JS**
+- 🚀 Next Soon & **MERN Stack** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills Overview
+
+- Web3 & Crypto Application Development  
+- Blockchain Integration using Ethers.js & Web3.js  
+- Frontend Development (HTML, CSS, JavaScript)  
+- MERN Stack & Next.js  
+- C / C++ Programming  
+- Git & GitHub Version Control  
+
+---
+
+## 🎯 Focus
+
+- Building decentralized & crypto-based applications  
+- Learning advanced React & modern frontend patterns  
+- Exploring real-world blockchain use cases  
+
+---
+
+📌 *Consistent learner with a strong interest in Web3 and Crypto technologies.*
