@@ -9,7 +9,7 @@
 - 🧠 JavaScript  
 - 💻 C / C++   
 - 📘 Currently learning **React JS**
-- 🚀 Next Soon & **MERN Stack** 
+- 🚀 **MERN Stack** 
 
 ---
 
